@@ -1,0 +1,1124 @@
+{
+    "name": "",
+    "pass_percentage": 75,
+    "time_limit": 900,
+    "attachments":
+    {
+        "1.html":
+        {
+            "type": "textList",
+            "data": [
+                "Technology allows us to accumulate biological deficits: we lost our sharp fingernails because we had cutting tools, we lost our heavy jaw musculature thanks to stone tools.",
+                "These changes reduced our basic aggression, increased manual dexterity and made males and females more similar.",
+                "Biological deficits continue today.",
+                "For example, modern human eyesight is on average worse than that of humans 10,000 years ago...",
+                "Evidence shows that over the last 30,000 years there has been an overall decrease in brain size and the trend seems to be continuing.",
+                "That's because we can outsource our intelligence.",
+                "I don't need to remember as much as a Neanderthal because I have a computer.",
+                "I don't need such a dangerous and expensive-to-maintain biology any more.",
+                "I would argue that humans are going to continue to get less biologically intelligent."
+            ]
+        },
+        "2.html":
+        {
+            "type": "textList",
+            "data": [
+                "“From managing the acquisition process to developing content to putting the final touches on style, grammar, usage, punctuation, etcetera, editors serve as an author's advocate/liaison and collaborator.",
+                "Two basic questions govern the editor's role: \"Is the author saying what he or she wants to say?\" and \"Is the author saying it as clearly and consistently as possible?\" Because of their varied positions and responsibilities, editors walk a fine line between their obligations to readers, publishers and writers.",
+                "But their primary obligation \"is to the book.\" In the writer's continual search for improved means of expression, the editor assures the thought or idea is not compromised.",
+                "Not only is \"awkward syntax\" or other technical or mechanical errors a target, but broader content questions, such as analyzing characters' actions and determining whether motivations are convincing, are addressed.",
+                "In the latter type situations, especially, the editor plays a significant role in the process of creating a manuscript.",
+                "But she must eschew becoming a \"censor.\""
+            ]
+        },
+        "3.html":
+        {
+            "type": "textList",
+            "data": [
+                "During this period many of the Romans, who were often from the sunny parts of modern day France and Italy, struggled to cope with the harsh realities of the British climate, especially those billeted in the North.",
+                "Letters have been recovered from a garrison at Hadrian's Wall have revealed officers and their men begging family back home to send them extra subuclae (vests) and abollae (heavy cloaks).",
+                "Another soldier urged his loved ones to send him \"Paria udonum ab Sattua solearum duo et subligariorum duo\" which translates as \"socks, two pairs of sandals and two pairs of underpants\"."
+            ]
+        },
+        "4.html":
+        {
+            "type": "textList",
+            "data": [
+                "“Nutraloaf (sometimes called Nutri-loaf, sometimes just \"the loaf\") is served in state prisons around the country.",
+                "It's not part of the regular menu but is prescribed for inmates who have misbehaved in various ways—usually by proving untrustworthy with their utensils.",
+                "The loaf provides a full day's nutrients, and it's finger food—no fork necessary.",
+                "Prisoners sue over Nutraloaf with some regularity, usually arguing either that their due process rights have been violated (because they are served the punitive loaves without a hearing) or that the dish is so disgusting as to make it cruel and unusual and thus a violation of the Eighth Amendment.”"
+            ]
+        },
+        "5.html":
+        {
+            "type": "textList",
+            "data": [
+                "“This is particularly true for a database run by the Administrative Office of the U.S. Courts, a database called PACER, which stands for Public Access to Court Electronic Records.",
+                "PACER contains 500 million pages of the proceedings of the U.S. district courts, including the dockets, briefs, motions, and opinions of every U.S. Federal case.",
+                "The courts charge 8 cents per page and require a valid credit card to access PACER.",
+                "A prisoner or other citizen can petition a judge for free access.",
+                "But, petitioning a federal judge isn’t exactly a low barrier to entry.",
+                "This is a big business for the courts: they drag in $120 million a year in revenue.",
+                "The courts even charge the executive branch of the federal government millions a year to access filings!”"
+            ]
+        },
+        "6.html":
+        {
+            "type": "textList",
+            "data": [
+                "“Psychologist Corinne Zimmerman and engineer Kevin Devine of Illinois State University in Normal asked 143 schoolchildren aged between 6 and 10 to \"draw a picture of a robot doing something robots often do\".",
+                "The results showed a clear stereotype of robots, says Zimmerman... The children saw them as boxy humanoids with legs and a square head, typically operating free of direct human control to engage in human-like work and play, from washing dishes and doing kids' homework to golfing, skipping and dancing – About 30 per cent of the children drew them boogieing.",
+                "A group of 29 children who had previously submitted robot drawings were then given lessons about what robots currently do in the real world, including a field trip to see an industrial robot.",
+                "They were then asked to redraw a robot.",
+                "Subsequently, only one child drew a humanoid robot – most instead drew industrial robots doing things like food processing or building cars.",
+                "\"The drawings were just as creative and complex, but they lacked the fictional elements of robots,\" says Zimmerman.”"
+            ]
+        },
+        "7.html":
+        {
+            "type": "textList",
+            "data": [
+                "“Back to business: What we’ve found is that the general survival rate for a casualty-inducing airline incident is about 38% or, in our parlance: your odds of survival are about 1 in 2.63.",
+                "Which, curiously enough, is identical to the odds a person physically present in Nagasaki survived the atomic bombing of 1945.",
+                "Even stranger, this is about half as likely as a given flight arriving on time (1 in 1.32) and twice as likely as a given flight having a delayed departure (1 in 5.28).",
+                "Not great odds, but not terrible - slightly worse than a coin flip.”"
+            ]
+        },
+        "8.html":
+        {
+            "type": "textList",
+            "data": [
+                "“Deceptive bosses, it transpires, tend to make more references to general knowledge (“as you know…”), and refer less to shareholder value (perhaps to minimise the risk of a lawsuit, the authors hypothesise).",
+                "They also use fewer “non-extreme positive emotion words”.",
+                "That is, instead of describing something as “good”, they call it “fantastic”.",
+                "The aim is to “sound more persuasive” while talking horsefeathers.",
+                "When they are lying, bosses avoid the word “I”, opting instead for the third person.",
+                "They use fewer “hesitation words”, such as “um” and “er”, suggesting that they may have been coached in their deception... [M]ore frequent use of swear words indicates deception.",
+                "These results were significant, and arguably would have been even stronger had the authors been able to distinguish between executives who knowingly misled and those who did so unwittingly.",
+                "They had to assume that every restatement was the result of deliberate deception; but the psychological traits they tested for would only appear in a person who knew he was lying."
+            ]
+        }
+    },
+    "questions": [
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Technology has allowed male and female humans to become more similar."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"These changes reduced our basic aggression, increased manual dexterity and made males and females more similar.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Average IQ levels have dropped over the last 30,000 years."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that there has been an overall decrease in brain size over the last 30,000 years. It does not explain if there has been a drop in the average IQ levels."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "When we lost our heavy jaw muscles, humans were forced to develop stone tools to replace them."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that we lost our heavy jaw musculatures when stone tools were developed."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Neanderthals were very good at remembering things."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states we don't have to remember as much as the Neanderthal because we have computers. This does not imply that Neanderthals were very good at remembering things."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Authors often cannot say what they want to say."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that while authors continuously search for improved means of expression, the editors assure the thought or idea is not compromised. It does not explain if authors cannot say what they want to say."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The editor's main obligation is to their authors as a liaison and advocate."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that the editor's primary obligation \"is to the book.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "An editor's role is simply to correct errors of style, grammar, and usage, and to be alert for technical and mechanical errors."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that an auditor's role is to not only correct \"awkward syntax\" or other technical or mechanical errors, but broader content questions, such as analyzing characters' actions and determining whether motivations that are convincing are addressed."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "An editor is, essentially, a censor."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that an auditor must eschew (avoid) becoming a censor."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The North of Britain is cold and rainy."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that the majority of the Romans, who were often from the sunny parts of moderm-day France and Italy, struggled to cope with the harsh realities of the British climate, especially those billeted in the North. The text does not state that the North of Britain is cold and rainy."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "There is evidence that Roman soldiers at Hadrian's Wall needed to be sent extra underwear from home."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that a soldier's letter was recovered from a garrison at Hadrian's Wall, asking his loved ones to send him two pairs of underpants."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "France and Italy were the sunniest parts of Europe during the period of the Roman Empire"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that during that period many of the Romans were from the sunny parts of modern-day France and Italy. It does not explain if France and Italy were the sunniest parts of Europe during the periood of the Roman Empire."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "It was customary for Romans to wear socks, two pairs of sandals, and two pairs of underpants whilst in Britain's harsh climate."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that a soldier urged his loved ones to send him socks, two pairs of sandals and two pairs of underpants. It does not explain if it was customary for Romans to wear socks, two pairs of sandals, and two pairs of underpants whilst in Britain's harsh climate."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Nutraloaf is usually eaten just with a spoon."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that Nutraloaf is a finger food. This implies that Nutraloaf is not eaten with a spoon."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Nutraloaf is as nutritious as bread."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that Nutraloaf provides a full day's nutrients. It does not state if Nutraloaf is as nutritious as bread."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "A prisoner is issued with Nutraloaf rations after they have had a hearing for misbehaviour in prison."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that prisoners argue that they are served the punitive loaves without a hearing."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Prisoners argue that the use of Nutraloaf contravenes the Eighth Amendment, which prohibits cruel and unusual punishment."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Prisoners sue over Nutraloaf with some regularity, usually arguing either that their due process have been violated (because they are served the punitive loaves without a hearing) or that the dish is so disgusting as to make it cruel and unsual and thus a violation of the Eighth Amendment.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "PACER stands for Public Access to Everyone's Court Records."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that PACER stands for Public Access to Court Electronic Records."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "PACER contains the paperwork for every court case in the United States"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that PACER contaions 500 million pages of the proceedings of the U.S district courtroom, including the dockets, briefs, motions and opinions of every U.S Federal case."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "To access every document in PACER would cost around $40 million."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that a PACER document contains 500 million pages and that the court charges 8 cents per page. The $40 million cost is derived from multiplying 500 million pages by 8 cents."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The federal government has free access to the documents in PACER."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the last statement: \"The courts even charge the executive branch of the federal government millions a year to access fillings.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Robots often dance."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the children saw robots as boxy humanoids with legs and a square head, which operate without human control and engage in human-like activities like dancing. However, the text does not explain if robots often dance."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "After being exposed to real-life robots, children's perceptions of them were more realistic."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that when a group of 29 children who had previously drawn human-like robots were given lessons about what robots currently do in the real world, most of them (28) drew industrial robots doing things like food processing or building cars."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "There are no humanoid robots."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that when a group of 29 children were asked to redraw a robot, only one child drew a humanoid robot. The text does not state if there are no humanoid robots."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Many of those who survived the atomic bombing of Nagasaki had also survived airline crashes."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the general survival rate for a casualty-inducing airline incident is about 38%, and a survival rate of about 1 in 2.63. Additionally, those odds are identical to a person physically present during the Nagasaki atomic bombing in 1945. The text does not state if the majority of the people who survived the atomic bombing of Nagasaki had also survived airline crashes."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "You are twice as likely to die in a plane crash than for your flight to arrive on time."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that dying in a plane crash (1 in 2.63) is about half as likely as a given flight arriving on time (1 in 1.32)."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "If your departure is delayed you are more likely to suffer an air crash."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that surviving a plane crash ( 1 in 2.63) is twice as likely as a given flight having a delayed departure (1 in 5.28). The text does not explain whether if your departure is delayed you are more likely to suffer an air crash."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The odds of surviving a plane crash are slightly worse than a guess made on a random coin flip."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Not great odds, but not terrible - slightly worse than a coin flip.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "If someone talks in the third person, avoiding the word “I” they are probably lying."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that when bosses are lying, they avoid the word \"I\" and opt to talk in the third person. This does not imply that people are probably lying whenever they talk in the third person and avoid the word \"I\"."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Lying is sometimes essential to minimise the probability of a lawsuit."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that deceptive bosses tend to refer less to shareholder value, perhaps to minimise the risk of a lawsuit. The text makes no reference as to whether lying reduces the possibility of a lawsuit."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Bosses who are lying tend to use fewer non-extreme positive terms, in order to sound more persuasive."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that lying bosses use less \"non-extreme positive emotion words\" (like describing something as fantastic instead of good) so that they sound more persuasive."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    }]
+}

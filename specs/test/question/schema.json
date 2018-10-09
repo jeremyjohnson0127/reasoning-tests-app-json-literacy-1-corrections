@@ -1,0 +1,22 @@
+{
+  "title": "Question",
+  "type": "object",
+  "required": [
+    "question",
+    "explanation",
+    "answers"
+  ],
+  "properties": {
+    "question": {
+      "type": "array"
+    },
+
+    "explanation": {
+      "type": "array"
+    },
+
+    "answers": {
+      "type": "array"
+    }
+  }
+}

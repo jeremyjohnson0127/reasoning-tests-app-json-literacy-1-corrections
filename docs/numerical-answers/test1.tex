@@ -1,0 +1,341 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\title{Numerical Reasoning Test Solutions Test 1}
+\author{Jaklyn Crilly}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+$\textbf{Question 1} \\$
+The percentage increase in the water prices between two consecutive years, denoted $P_{yx-y(x+1)}$, is given by the change in the inflation index between these two years divided by the inflation index for the initial year, then multiplied by 100 in order to get the data into percentage form. Doing this for the periods $y0$ to $y1$, $y1$ to $y2$, and $y2$ to $y3$, we get:
+\begin{align*}
+P_{y0-y1} &= \frac{95-100}{100} \times 100\\
+&= -5,\\
+P_{y1-y2} &= \frac{90-95}{95} \times 100\\
+&=-5.2631...,\\
+P_{y2-y3} &= \frac{85-90}{90} \times 100\\
+&=-5.5555...
+\end{align*}
+The negative sign indicates a decrease, and so the greatest decrease in water prices occurred between the years $y2$ and $y3$. $\\$
+
+Note: Although the inflation index decreases at a constant rate, this does not mean that the water prices decrease at the same rate. This is made clear by calculating the percentage decreases for each year.$\\$
+
+$\textbf{Question 2} \\$
+We will first determine the percentage increase in the price of the house from $y1$ to $y2$, denoted $P^{H}_{y1-y2}$. Applying the same formula as in question 1, we get:
+\begin{align*}
+P^{H}_{y1-y2} &= \frac{100-105}{105} \times 100\\
+&= -\frac{100}{21}.
+\end{align*}
+So the cost of the house decreased by $\frac{100}{21} \%$ between years 1 and 2.$\\$
+
+Given the price of the house at the end of year 1 was £300,000, the cost (in units of £) of the house at the end of year 2, denoted $C_{y2}^{\text{H}}$, is:
+\begin{align*}
+C_{y2}^{\text{H}} &= 300000 - 300000 \times \frac{1}{21}\\
+&= 285714.2857...
+\end{align*}
+
+Repeating this process for the following year, we get that the percentage increase in the price of the house from $y2$ to $y3$ is:
+\begin{align*}
+P^{H}_{y2-y3} &= \frac{110-100}{100} \times 100\\
+&= 10.
+\end{align*}
+The cost of the house at the end of year 3 is thus:
+\begin{align*}
+C_{y3}^{\text{H}} &= C_{y2}^{\text{H}} + C_{y2}^{\text{H}} \times \frac{10}{100}\\
+&= 314285.7142...
+\end{align*}
+Therefore, to two decimal places, the price of the house at the end of year 3 is £314,285.71. $\\$
+
+$\textbf{Question 3} \\$
+Rebasing the index to a given year, say year Y, means setting year Y's index to 100$\%$. This is achieved by dividing all the indices for the given data by year Y's index value, and then multiplying everything by 100 in order to get the data back into percentage form.$\\$
+
+If we rebase the data for food to the year $y1$, which has an inflation index of 110$\%$, we must multiply all food indices by $\frac{100}{110}$. Doing this to the year $y3$ which originally had an inflation index of 115$\%$, we get that its new rebased index, denoted $I_{\text{food}}^{y3}$, is:
+\begin{align*}
+I_{\text{food}}^{y3} &= 115 \times \frac{100}{110}\\
+&= 104.5454...
+\end{align*}
+Therefore, to one decimal place, the rebased index for food in year 3 is 104.5$\%$. $\\$
+
+$\textbf{Question 4} \\$
+Let $I_{y1}^{\text{prod}}$ and $I_{y2}^{\text{prod}}$ denote the inflation indices of a given product in the years $y1$ and $y2$ respectively. Then the percentage increase in the price of a specified product between $y1$ and $y2$, denoted $P_{y1-y2}^{\text{prod}}$, is given by:
+\begin{align*}
+P_{y1-y2}^{\text{prod}} &= \frac{I_{y2}^{\text{prod}} - I_{y1}^{\text{prod}}}{I_{y1}^{\text{prod}}} \times 100.
+\end{align*}
+Applying this formula to each of the four products, we get:
+\begin{align*}
+P_{y1-y2}^{\text{Food}} &= \frac{115-110}{110} \times 100\\
+&= 4.5454...,\\
+P_{y1-y2}^{\text{Houses}} &= \frac{100-105}{105} \times 100\\
+&= -4.7619...,\\
+P_{y1-y2}^{\text{Petrol}} &= \frac{110-105}{105} \times 100\\
+&= 4.7619...,\\
+P_{y1-y2}^{\text{Water}} &= \frac{90-95}{95} \times 100\\
+&= -5.2631...
+\end{align*}
+We see that water had the greatest percentage change, with a decrease of roughly 5.26$\%$. $\\$
+
+$\textbf{Question 5} \\$
+The population of Northern Ireland accounts for 3$\%$ of the total population of the UK in 2008 (which was 60,587,300). This means that the population of Northern Ireland in 2008 was:
+$$60587300 \times \frac{3}{100} = 1817619.$$
+Rounding this to the nearest thousand, we get that the answer is 1,818,000. $\\$
+
+$\textbf{Question 6} \\$
+Removing England from the data, we want Scotland, Northern Ireland and Wales to make up the whole pie chart. The percentage of the population of the UK without England arising from Wales, denoted $P_{\text{Wales}}$, is given by the percentage of the population of Wales (in the UK) divided by the sum of the percentages of the population of Scotland, Northern Ireland and Wales (in the UK), then multiplied by 100. That is:
+\begin{align*}
+P_{\text{Wales}} &= \frac{5}{8+5+3} \times 100\\
+&= 31.25.
+\end{align*}
+Therefore, Wales makes up 31.25$\%$ of the total population of the UK without England. $\\$
+
+$\textbf{Question 7} \\$
+The population of Scotland accounts for 8$\%$ of the total population of the UK in 2008 (which was 60,587,300). This means that the population of Scotland in 2008 was:
+$$60587300 \times \frac{8}{100} = 4846984.$$
+Now, if the average population increases by 6$\%$ during 2008, the population of Scotland in 2009, denoted $N_S^{2009}$, can be assumed to increase by 6$\%$ as well, and is thus:
+\begin{align*}
+N_S^{2009} &= 4846984 \times \frac{100+6}{100} \\
+&= 5137803.04.
+\end{align*}
+To the nearest unit, the answer is 5,137,803. $\\$
+
+$\textbf{Question 8} \\$
+The population of Northern Ireland accounts for 3$\%$ of the total population of the UK in 2008 (which was 60,587,300). This means that the population of Northern Ireland in 2008 was:
+$$60587300 \times \frac{3}{100} = 1817619.$$
+
+As calculated in the previous question, we know that the population of Scotland in 2008 was 4846984. If this population is evenly distributed among the remaining three countries, it means that the population of these three countries will increase by $4846984 \times \frac{1}{3} = 1615661.33...$ $\\$
+
+So the population of Northern Ireland after this distribution will be:
+$$1817619 + 1615661.3... = 3433280.3...$$
+To the nearest whole number, we get the answer is 3,433,280. $\\$
+
+$\textbf{Question 9} \\$
+The population of England accounts for 84$\%$ of the total population of the UK in 2008 (which was 60,587,300), which means that the population of England in 2008 was:
+$$60587300 \times \frac{84}{100} = 50893332.$$
+
+Now, with the inclusion of this new country, the total population of the UK, denoted $P_{\text{UK}}$, will be:
+\begin{align*}
+P_{\text{UK}} &= 60587300+13000000\\
+&= 73587300.
+\end{align*}
+
+The percentage of the population of the UK that England now makes up, denoted $P_{\text{Engl}}$, is thus:
+\begin{align*}
+P_{\text{Engl}} &= \frac{50893332}{73587300} \times 100\\
+&= 69.1604...
+\end{align*}
+To one decimal place, we get that the answer is 69.2$\%$. $\\$
+
+$\textbf{Question 10} \\$
+From the solution to question 9, we know that the population of England is 50893332, and from the solution to question 7, we know that the population in Scotland is 4846984. The ratio of people living in England to those living in Scotland is:
+\begin{align*}
+50893332 : 4846984 &= 10.5 : 1\\
+&= 21 : 2
+\end{align*}
+where we have divided both sides of the ratio by 4846984 to get the first equality, and then multiplied both sides by 2 to get the second. $\\$
+
+Therefore, the answer is given by the ratio $21 : 2$. $\\$
+
+$\textbf{Question 11} \\$
+For year 2, there were 120 staff employed in distribution and a total of 794 staff employed overall. The percentage of the year 2 workforce employed in distribution, denoted $P_{\text{dist}}^{2}$, is thus:
+\begin{align*}
+P_{\text{dist}}^{2} &= \frac{120}{794} \times 100\\
+&= 15.1133...
+\end{align*}
+To two decimal places, we get that the answer is 15.11$\%$. $\\$
+
+$\textbf{Question 12} \\$
+Letting $P^{1-4}_{\text{dep}}$ denote the increase in percentage of staff numbers for a specified department between years 1 and 4, we get:
+\begin{align*}
+P^{1-4}_{\text{Admin}} &= \frac{18-22}{22} \times 100\\
+&= -18.18...,\\
+P^{1-4}_{\text{Fact}} &= \frac{383-314}{314} \times 100\\
+&= 21.97...,\\
+P^{1-4}_{\text{Sales}} &= \frac{73-63}{63} \times 100\\
+&= 15.87...,\\
+P^{1-4}_{\text{Dist}} &= \frac{113-111}{111} \times 100\\
+&= 1.80...,\\
+P^{1-4}_{\text{Other}} &= \frac{75-98}{98} \times 100\\
+&= -23.46...
+\end{align*}
+So we see that the biggest percentage change occurred in the 'Other' department with a decrease of 23$\%$ (to the nearest percent). $\\$
+
+$\textbf{Question 13} \\$
+We need to subtract the number of staff in each department in year 4 by the number of staff in each department in year 3 (a value we will denote by $D_{\text{Dep}}$). Given the question asks for the smallest gain in this value, and given the number of staff increases from year 3 to year 4 only for the departments 'Factory' and 'Other', the question simplifies to working out which of these two departments produces the smallest value of $D_{\text{Dep}}$:
+\begin{align*}
+D_{\text{Fact}} &= 383-350\\
+&= 33,\\
+D_{\text{Other}} &= 75-43\\
+&= 32.
+\end{align*}
+Therefore, the department 'Other' gained the least amount of staff between years 3 and 4, with an extra 32 staff being employed. $\\$
+
+$\textbf{Question 14} \\$
+The wage bill for a given department is given by the wage of the department multiplied by the number of staff of that department. The total wage bill (in units of thousand £) for a given year, denoted $W_{\text{year}}$, is then the sum of all the wage bills of each department for that year. That is:
+\begin{align*}
+W_{\text{Year2}} &= 20 \times (28+99) + 14 \times (483+120+64)\\
+&= 11878,\\
+W_{\text{Year3}} &= 20 \times (26+83) + 14 \times (350+130+43)\\
+&= 9502.
+\end{align*}
+The percentage by which the wage bill changed between year 2 and year 3, denoted $P_W$, is then:
+\begin{align*}
+P_W &= \frac{W_{\text{Year3}} - W_{\text{Year2}}}{W_{\text{Year2}}} \times 100\\
+&= \frac{9502-11878}{11878}\\
+&= -20.00...
+\end{align*}
+Therefore, to the nearest percent, we get that the wage bill decreases by 20$\%$, which means that the percentage changes by 20$\%$. $\\$
+
+$\textbf{Question 15} \\$
+The average number of staff employed in Sales and Distribution over the four years, denoted $N_{av}^{S\&D}$, is given by the sum of the number of staff in sales and in Distribution over the four years, divided by four. That is:
+\begin{align*}
+N_{av}^{S\&D} &= \frac{63+99+83+73+111+120+130+113}{4}\\
+&= 198.
+\end{align*}
+The answer is an average of 198 staff. $\\$
+
+$\textbf{Question 16} \\$
+We want to calculate the quantity Rupee/Ringit. This is given by:
+\begin{align*}
+\text{Rupee/Ringit} &=\frac{\text{Rupee}}{\text{Ringit}} \\
+&= \frac{\text{Rupee}}{\text{Unit}} \times \frac{\text{Unit}}{\text{Ringit}}\\
+&= \text{Rupee/Unit} \times \frac{1}{\text{Ringit/Unit}}
+\end{align*}
+Applying this formula for the currency Dollar, we get:
+\begin{align*}
+\text{Rupee/Ringit} &=42.275 \times \frac{1}{3.25}\\
+&= 13.00...
+\end{align*}
+So to two significant figures, the answer is 13 Rupees per Ringit. $\\$
+
+Note: We could have applied the formula to any of the other currencies (not just dollar) and we would get the same answer up to two significant figures. $\\$
+
+$\textbf{Question 17} \\$
+We know that $\$$1 is worth 42.275 Rupees, and so $\$$120 is worth $120 \times 42.275 = 5073$ Rupees. Similarly, €1 is worth 66.09 Rupee, and so €322 is worth $322 \times 66.09 = 21280.98$ Rupees. Therefore, if one had $\$$120 and €322, this is equivalent to $5073+21280.98= 26353.98$ Rupees. $\\$
+
+Now we know that 1 Yen is worth 0.39 Rupees, and so 1 Rupee is worth $\frac{1}{0.39}$ Yen. Therefore, 26353.98 Rupees is worth (in Yen):
+$$26353.98 \times \frac{1}{0.39} = 67574.3076...$$
+To the nearest Yen, we get that the answer is 67574¥. $\\$
+
+$\textbf{Question 18} \\$
+We have that €1 is worth 5.08 Ringits. If the value of the euro decreased by 11$\%$, then we'd get that 1€ is now worth $5.08 \times \frac{100-11}{100} =4.5212$ Ringits. So we have:
+\begin{align*}
+1 \text{ Ringit} &= €1 \times \frac{1}{4.5212}.
+\end{align*}
+Now multiplying both sides of this equation by 1500, we get:
+\begin{align*}
+1500 \text{ Ringits} &= €1 \times \frac{1500}{4.5212}\\
+&= €331.7703...
+\end{align*}
+Therefore, 1500 Ringits is worth €331.77 after the Euro's value decreased.$\\$
+
+$\textbf{Question 19} \\$
+The currency unit that is worth least against sterling is given by the currency which has the smallest Sterling/Unit value as this indicates 1 Unit of currency is worth (Sterling/Unit) Sterlings. Now we know that:
+\begin{align*}
+\text{Sterling/Unit} &= \frac{\text{Sterling}}{\text{Unit}}\\
+&= \frac{\text{Sterling}}{\text{Rupee}} \times \frac{\text{Rupee}}{\text{Unit}}\\
+&= \text{Sterling/Rupee} \times \text{Rupee/Unit}.
+\end{align*}
+Given Sterling/Rupee is fixed, the currency that produces the smallest value for Sterling/Unit is equal to the currency that produces the smallest value for Rupee/Unit. So letting the currency be either Rupee (which would produce a Rupee/Unit=Rupee/Rupee value of 1), Dollar, Yen, or Euro, we see that the smallest Sterling/Unit value occurs for Yen. $\\$
+
+Lastly we need to make find out if Sterling/Yen or Sterling/Ringit has the smaller value. To do this, we do the exact same process we did for Rupee, however now with Ringit. We see that Ringit/Yen is smaller than 1, and so the value of Sterling/Yen will be smaller than the value for Sterling/Ringit. Therefore, the answer is Yen.  $\\$
+
+$\textbf{Question 20} \\$
+The question gives you no information on what represents 'good value', therefore you cannot say what is the best currency to buy. $\\$
+
+If, for example, we were given prices to compare to say an average, we would have some way to measure which currency is offering the best value in comparison to their average, and deduce the solution from this. However, without such information, a 'good value' cannot be measured. $\\$
+
+$\textbf{Question 21} \\$
+In 2001, the percentage of the total 25 million cars on the road that were aged 3 years or older was $51\%+22\%=73\%$. The number of cars that were aged three years or older (in units of million) is thus:
+$$25 \times \frac{73}{100} = 18.25.$$
+So the answer is a total of 18.25 million = 18,250,000 cars. $\\$
+
+$\textbf{Question 22} \\$
+We were not informed of how many cars there were on the road in 1994, therefore we cannot say. $\\$
+
+$\textbf{Question 23} \\$
+In 2001, the percentage of the total 25 million cars on the road that were aged older than 6 years is 51$\%$. The number of cars in the year 2001 that were aged older than 6 years (in units of million), denoted $N_{>6}^{2001}$, is thus:
+\begin{align*}
+N_{>6}^{2001} &= 25 \times \frac{51}{100}\\
+&= 12.75.
+\end{align*}
+Now if the number of cars older than 6 years of age increased by 30$\%$ from 1994 to 2001, this means that the number of cars in 1994 that were aged older than 6 years, denoted $N_{>6}^{1994}$, satisfies the equation:
+$$N_{>6}^{2001} = N_{>6}^{1994} \times \frac{100 + 30}{100}.$$
+Rearranging this equation to make $N_{>6}^{1994}$ the subject, we get:
+\begin{align*}
+N_{>6}^{1994} &= N_{>6}^{2001} \times \frac{100}{130}\\
+&= 12.75 \times \frac{100}{130}\\
+&= 9.8076...
+\end{align*}
+
+Now we know that cars older than 6 years of age accounted for 45$\%$ of the total cars in 1994. The total number of cars on the road in 1994, denoted $N^{1994}$, is thus:
+\begin{align*}
+N^{1994} &= N_{>6}^{1994} \times \frac{100}{45}\\
+&= 21.7948...
+\end{align*}
+Finally, the number of cars less than 6 years old, denoted $N^{1994}_{\leq 6}$, is:
+\begin{align*}
+N^{1994}_{\leq 6} &= N^{1994} - N_{>6}^{1994}\\
+&= 11.98717948...
+\end{align*}
+So we get (to the nearest car) that the answer is 11.987179 million = 11,987,179 cars. $\\$
+
+$\textbf{Question 24} \\$
+This is a currency conversion question; we know the GDP in units of $\$$, and we want it in units of £. $\\$
+
+We know that in 2005:
+$$\$1 = £0.54.$$
+Multiplying both sides of this equation by 1,209,334 we get:
+\begin{align*}
+\$ 1209334 &= £0.54 \times 1209334\\
+&= £653040.36.
+\end{align*}
+To the nearest pound, the answer is £653,040 per million. $\\$
+
+$\textbf{Question 25} \\$
+To determine the percentage increase in the GDP over a specified period, denoted $P_{\text{GDP}}^{\text{period}}$, we must subtract the final GDP by the initial GDP over the given period, divide this by the initial GDP, and then multiply the result by 100 to get the data back into percentage form. That is:
+$$P_{\text{GDP}}^{\text{period}} = \frac{(\text{GDP})_F - (\text{GDP})_I}{(\text{GDP})_I} \times 100.$$
+Applying this to the 5 possible solutions we get:
+\begin{align*}
+P_{\text{GDP}}^{\text{80-85}} &= \frac{354952-230695}{230695} \times 100\\
+&= 53.86...,\\
+P_{\text{GDP}}^{\text{85-90}} &= \frac{557300-354952}{354952} \times 100\\
+&= 57.00...,\\
+P_{\text{GDP}}^{\text{90-95}} &= \frac{718383-557300}{557300} \times 100\\
+&= 28.90...,\\
+P_{\text{GDP}}^{\text{95-00}} &= \frac{953576-718383}{718383} \times 100\\
+&= 32.73...,\\
+P_{\text{GDP}}^{\text{00-05}} &= \frac{1209334-953576}{953576} \times 100\\
+&= 26.82...
+\end{align*}
+The period with the greatest percentage increase was from 1985 to 1990 with an increase of approximately 57$\%$.$\\$
+
+$\textbf{Question 26} \\$
+To determine the percentage increase in prices over a specified period, denoted $P_{\text{price}}^{\text{period}}$, we must subtract the final inflation index, denoted $I_F$, by the initial inflation index, denoted $I_I$, for the given period, divide this by the initial inflation index, and then multiply the result by 100 to get the data back into percentage form. That is:
+$$P_{\text{price}}^{\text{period}} = \frac{\text{I}_F - \text{I}_I}{\text{I}_I} \times 100.$$
+Applying this to the 5 possible solutions we get:
+\begin{align*}
+P_{\text{price}}^{\text{80-85}} &= \frac{60-43}{43} \times 100\\
+&= 39.53...,\\
+P_{\text{price}}^{\text{85-90}} &= \frac{76-60}{60} \times 100\\
+&= 26.66...,\\
+P_{\text{price}}^{\text{90-95}} &= \frac{92-76}{76} \times 100\\
+&= 21.05...,\\
+P_{\text{price}}^{\text{95-00}} &= \frac{100-92}{92} \times 100\\
+&= 8.69...,\\
+P_{\text{price}}^{\text{00-05}} &= \frac{107-100}{100} \times 100\\
+&= 7.
+\end{align*}
+The period with the greatest percentage increase occured from 1980 to 1985 with an increase of approximately 40$\%$.$\\$
+
+$\textbf{Question 27} \\$
+To rebase the inflation indices to the year 2005, we must divide all indices by the value of the inflation index for the year 2005, and then multiply all these values by 100 (to get the data in percentage form). Given the inflation index for the year 1990 was 76$\%$, after we have rebased the data to the year 1990, the new inflation index for the year 2005, denoted $I_{2005}$, will be:
+\begin{align*}
+I_{2005} &= \frac{107}{76} \times 100\\
+&= 140.7894...
+\end{align*}
+Therefore, to the nearest percent, the rebased inflation index for the year 2005 is 141$\%$.
+\end{document}
+

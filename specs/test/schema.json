@@ -1,0 +1,34 @@
+{
+  "title": "Test",
+  "type": "object",
+  "required": [
+    "name",
+    "pass_percentage",
+    "time_limit",
+    "attachments",
+    "questions"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "example": "foo" 
+    },
+    "pass_percentage": {
+      "type": "number",
+      "example": 70 
+    },
+
+    "time_limit": {
+      "type": "number",
+      "example": 1620 
+    },
+
+    "attachments": {
+      "type": "object"
+    },
+
+    "questions": {
+      "type": "array"
+    }
+  }
+}

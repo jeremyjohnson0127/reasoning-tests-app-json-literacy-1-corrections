@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "sdkVersion": "30.0.0",
+    "name": "Numerical Reasoning Tests",
+    "description": "Practise timed numerical reasoning tests based on those used by employers.",
+    "slug": "wikijob-test-numerical-dev",
+    "version": "2.6.0",
+    "icon": "./manifests/numerical/icon.png",
+    "platforms": ["ios", "android"],
+    "privacy": "unlisted",
+    "assetBundlePatterns": [
+      "./assets/images/*",
+      "./data/numerical/*.json"
+    ],
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+
+    "facebookScheme": "fb1890795264311776",
+    "facebookAppId": "1890795264311776",
+    "facebookDisplayName": "Numerical Reasoning Tests",
+
+    "ios": {
+      "bundleIdentifier": "uk.co.wikijob.test.numerical",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "uk.co.wikijob.test.numerical.paid",
+      "versionCode": 10015,
+      "permissions": []
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    },
+    "updates": {
+      "enabled": false
+    },
+    "extra": {
+      "intro": [
+        {
+          "key": "one",
+          "title": "Welcome",
+          "text": "This will help you perform better in psychometric reasoning tests, often used in job application processes.",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "key": "two",
+          "title": "Work quickly",
+          "text": "The tests are timed. It’s the time pressure that makes it difficult.\n\nYou should treat these practice tests like the real exam, and go back afterwards to review how you did.",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "key": "three",
+          "title": "Improve your skills",
+          "text": "You’ll get your results at the end of the test and solutions to help you improve.",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Answer",
+  "type": "object",
+  "required": [
+    "value",
+    "correct"
+  ],
+  "properties": {
+    "value": {
+      "type": "string",
+      "example": "I am answer"
+    },
+
+    "correct": {
+      "type": "boolean",
+      "example": false 
+    }
+  }
+}

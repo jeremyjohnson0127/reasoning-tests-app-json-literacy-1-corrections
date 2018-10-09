@@ -1,0 +1,1121 @@
+{
+    "name": "",
+    "pass_percentage": 75,
+    "time_limit": 900,
+    "attachments":
+    {
+        "1.html":
+        {
+            "type": "textList",
+            "data": [
+                "The diodon, a curious fish not uncommon in tropical seas, is furnished with strong teeth which enable it to break off and crunch branches of coral on which it feeds, and its skin is beset with sharp spines.",
+                "This fish has the power of inflating itself until it assumes the shape and size of a large ball; when inflated, the spines stand out like the quills of a porcupine; hence the popular name of the diodon is porcupine fish."
+            ]
+        },
+        "2.html":
+        {
+            "type": "textList",
+            "data": [
+                "According to Matthew Yeager, a data storage expert who works for the UK data services and solutions company Computacenter, emails — especially those with attachments—still use energy and create greenhouse gas emissions, even if you don't print them.",
+                "Last month, Yeager told the BBC that sending an email attachment of 4.7 megabytes—the equivalent of about 4 photos taken on a point-and-shoot digital camera—creates as much greenhouse gas as boiling your tea kettle 17.5 times.",
+                "I called Yeager to find out the whole story.",
+                "What I ended up getting was a very brief introduction to the strange world of data storage.",
+                "According to Yeager, at some point in the coming year, the world will have a grand total of 1.2 zettabytes of stored data, requiring equipment with a mass equivalent to that of 20 percent of the island of Manhattan.",
+                "Wonder how much data 1.2 zettabytes actually is? \"If you took all the content in all the US's academic libraries and multiplied it by half a million, that would be 1.2 zettabytes,\" says Yeager."
+            ]
+        },
+        "3.html":
+        {
+            "type": "textList",
+            "data": [
+                "Pykrete is a super-ice, strengthened tremendously by mixing in wood pulp as it freezes.",
+                "By freezing a slurry of 14 percent wood pulp, the mechanical strength of ice rockets up to a fairly consistent 70 kg/sq cm. A 7.69 mm rifle bullet, when fired into pure ice, will penetrate to a depth of about 36 cm. Fired into pykrete, it will penetrate less than half as far—about the same distance as a bullet fired into brickwork.",
+                "Yet you can mold pykrete into blocks from the simplest materials and then plane it, just like wood.",
+                "And it has tremendous crush resistance: a one-inch column of the stuff will support an automobile.",
+                "Moreover, it takes much longer to melt than pure ice.",
+                "But as strong and eco-friendly as it is, pykrete remains forgotten today save among glaciologists, who express bafflement over why no one has made use of it."
+            ]
+        },
+        "4.html":
+        {
+            "type": "textList",
+            "data": [
+                "While many critics refer to film noir as a genre itself, others argue that it can be no such thing.",
+                "While noir is often associated with an urban setting, many classic noirs take place in small towns, suburbia, rural areas, or on the open road; so setting cannot be its genre determinant, as with the Western.",
+                "Similarly, while the private eye and the femme fatale are character types conventionally identified with noir, the majority of film noirs feature neither; so there is no character basis for genre designation as with the gangster film.",
+                "Nor does film noir rely on anything as evident as the monstrous or supernatural elements of the horror film, the speculative leaps of the science fiction film, or the song-and-dance routines of the musical.",
+                "Due to the lack a solid genre definition film noir may be more accurately described as a visual style, that emphasizes low-key lighting, unbalanced compositions and other conventions."
+            ]
+        },
+        "5.html":
+        {
+            "type": "textList",
+            "data": [
+                "A tax credit is a payment that you receive regularly.",
+                "Despite the name, it isn't a credit against your tax bill.",
+                "Nine out of ten families with children are eligible for Child Tax Credit.",
+                "If you're working more than 16 hours a week and you're on a low income, you may be able to get Working Tax Credit too.",
+                "Tax credits may also be able to help with the costs of your childcare if you:",
+
+                "- work for at least 16 hours per week",
+                "- worked more than 16 hours per week before going on adoption, maternity, paternity or sick leave"
+            ]
+        },
+        "6.html":
+        {
+            "type": "textList",
+            "data": [
+                "Nearly all scholars (most recently Dr Simon Keynes) now accept that Anglo-Saxon governmental institutions, far from being backward, were exceptionally advanced.",
+                "The king had the nucleus of a secretariat, a chancery centred on his chapel and manned by his chaplains.",
+                "There administrative documents (mainly charters granting land and privileges) were kept in safety alongside the sacred vessels and holy relics.",
+                "The chaplains were apparently responsible for writing at least some of the charters, and also of the writs sent out with the king's commands to his officials in the localities.",
+                "In addition, since there was a national tax, the geld, the king obviously must have had some kind of treasury.",
+                "His position was further strengthened by the existence of a national army, the fyrd."
+            ]
+        },
+        "7.html":
+        {
+            "type": "textList",
+            "data": [
+                "The [United States Senate] press gallery, above the dais, is typically deserted, as journalists prefer to hunker down in the press lounge, surfing the Web for analysis of current Senate negotiations; television screens alert them if something of interest actually happens in the chamber.",
+                "The only people who pay attention to a speech are the Senate stenographers.",
+                "On this afternoon, two portly bald men in suits stood facing the speaker from a few feet away, tapping at the transcription machines, which resembled nineteenth-century cash registers, slung around their necks.",
+                "The Senate chamber is an intimate room where men and women go to talk to themselves for the record."
+            ]
+        },
+        "8.html":
+        {
+            "type": "textList",
+            "data": [
+                "To quantify the effect this colouring has on tropical cyclones, Anand Gnanadesikan of the Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey, and colleagues modelled the north Pacific subtropical gyre, a massive region of circulating ocean currents over which cyclones form.",
+                "They found that clearer ocean waters would mean fewer cyclones.",
+                "The centres of gyres tend to be clearer than their edges, allowing solar heat to penetrate to nearly 100 metres, while it gets no further than 5 to 10 metres at the edges.",
+                "This means that areas of ocean that are murky with phytoplankton get warmer nearer the surface, while clearer waters warm up further down.",
+                "That deeper heat is carried away from the gyre by its associated deep currents, creating a region that is cooler than the rest of the tropics.",
+                "There are no such currents to carry away the warmer waters of the murky regions.",
+                "A cooler area changes patterns of regional air convection and so reduces the number of cyclones over the gyre."
+            ]
+        }
+    },
+    "questions": [
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The diodon's spines are made of the coral that it eats."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the diodon's skin is beset with sharp spines, but it does not explain if the spines are made of coral that it eats."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Diodons are rarely found in tropical seas."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that the diodon fish is not uncommon in tropical seas (which means it can be readily found in tropical seas)."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The porcupine was named after the diodon, the porcupine fish."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the popular name of the diodon is porcupine fish, due to its spines standing out like the quills of a porcupine."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Sending an email with four digital photos attached could lead to the same amount of greenhouse gas emissions as boiling a kettle 17.5 times."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Last month, Yeager told the BBC that sending an email attachment of 4.7 megabytes - the equivalent of about 4 photos taken on a point-and-shoot digital camera - creates as much greenhouse gas as boiling your tea kettle 17.5 times.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "To reduce greenhouse gas emissions you should print out all emails"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that emails - especially those with attachments - create greenhouse emissions even if you dont print them. It does not suggest that to reduce greenhouse gas emissions you should print out emails."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "1.2 zettabytes is what you would need to store all of the information from all of the books and journals in the US' academic libraries 500,000 times."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement, \"If you took all the content in all the US`s academic libraries and multiplied it by half a million, that would be 1.2 zettabytes.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The equipment needed to store 6 zettabytes of stored data would weigh as much as the entire island of Manhattan"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that for a grand total of 1.2 zettabytes of stored data, it would require equipment with a mass equivalent to that of 20 percent of the island of Manhattan. It does not explain the equipment mass equivalent to the size of the island of Manhattan needed to store 6 zettabytes of stored data."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Pykrete is a frozen mixture of water and wood pulp."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Pykrete is a super-ice, strengthened tremendously by mixing wood pulp with water as it freezes."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Pykrete is more fragile than ordinary ice."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that when a 7.69mm rifle is fired into pure ice, it will penetrate to a depth of about 36cm, and when it is fired into pykrete, it will penetrate less than half as far. This implies that ordinary ice is more fragile than pykrete."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Pykrete does not expand as much as ordinary ice when it freezes."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that pykrete takes much longer to melt than pure ice."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Glaciologists make regular use of pykrete"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that apart from glaciologists, everyone seems to have have forgotten about pykrete and thus nobody is making use of it. This does not imply that glaciologists make regular use of pykrete."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Films noirs are always black-and-white."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that films noirs are normally set in a visual style that emphasizes low-key lighting, unbalanced compositions and other conventions. This does not mean that films noirs are always black-and-white."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Gangster film always have private eyes and femmes fatales in them."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that there is character basis for genre designation with the gangster film. This statement does not mean that gangster film always have private eyes and femme fatales in them."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "A film noir will usually have a private eye or a femme fatale character in."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Similarly, while the private eye and the femme fatale are character types conventionally identified with noir, the majority of films noirs feature neither.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Film noir is best defined with reference to its visual style, rather than its content."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Due to the lack of a solid genre definition, film noir may be accurately described as a visual style, that emphasizes low-key lighting, unbalanced compositions and other conventions.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "A tax credit is a credit made against your tax bill."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"Despite the name, it isn`t a credit against your tax bill.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "If you work for 12 hours a week you may be eligible for a tax credit to help with the cost of childcare."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that you may be eligible for a tax credit to help with the cost of childcare if you either work for at least 16 hours per week or you have worked for more than 16 hours per week before going on adoption, maternity, paternity or sick leave."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Most families with children are eligible for Child Tax Credit."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that nine out of ten families with children are eligible for Child Tax Credit. Nine out of ten families is above average, which means that most families are eligible for Child Tax Credit."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "You cannot claim both Working Tax Credit and Child Tax Credit."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that you are eligible to get working tax credit too if you are working for more than 16 hours a week and you are on a low income. This implies that you can claim both Working Tax Credit and Child Tax Credit."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Dr Simon Keynes believes that Anglo-Saxon governmental institutions were backward."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that nearly all scholars (and in recent times Dr Simon Keynes) believe that Anglo-Saxon governmental insititutions were far from being backward."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Anglo-Saxon kings kept administrative documents in their chapels."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that the administrative documents (mainly charters granting land and privileges) were kept in safety alongside the sacred vessels and holy relics. This implies that the Anglo-Saxon kings kept administrative documents in their chapels."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Chaplains were the only people in Anglo-Saxon England who could read and write."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the chaplains were responsible for writing at least some of the charters and the writs sent out with the king's commands to his officials in the localities. It does not explain if the chaplains were the only people in Anglo-Saxon England who could read and write."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "There is archaeological evidence of Anglo-Saxon kings having treasuries."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Although the text states that Anglo-Saxon kings must have had some kind of treasury, it makes no mention of there being archaeological discoveries of these treasuries."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Journalists prefer not to use the press gallery, as they can get more information from the Internet"
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the press gallery is deserted because journalists prefer to hunker down in the press lounge, surfing the web for information. However, the text does not explain why journalists prefer to get information from the internet."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The Senate stenographers are portly, bald men."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the senate stenographers are the only people who pay attention to the speech and on that particular afternoon, two portly bald men in suits stood facing the speaker, while tapping the transcription machines. It does not state that all senate stenographers are portly, bald men."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "There are television screens in the press lounge which relay what is happening in the Senate chamber."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text states that as journalists hunker down in the press lounge, surfing the web for analysis of current Senate negotiations, there are television screens that alert them if something of interest actually happens in the chamber."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "There is no point in making a speech in the Senate chamber."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that the Senate chamber is an intimate room where men and women go to talk to themselves for the record. It does not explain if there is a point of making a speech in the Senate chamber."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Phytoplankton cause ocean water to retain heat."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "The text only states that areas of ocean that are murky with phytoplankton get warmer nearer the surface. It does not explain if phytoplankton can cause ocean water to retain heat."
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Clearer water allows solar heat to penetrate further."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"The centres of gyres tend to be clearer than their edges, allowing solar heat to penetrate to nearly 100 metres, while it gets no further than 5 to 10 metres at the edges.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "When solar heat penetrates deeper into ocean water around a gyre, it is more likely to be 'carried away' by deep ocean currents."
+            ]
+        }],
+        "explanation": [{
+                "type": "text",
+                "data": "Refer to the statement: \"That deeper heat is carried away from the gyre by its associated deep currents, creating a region that is cooler than the rest of the tropics.\""
+            }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot say",
+            "correct": false
+        }]
+    }]
+}

@@ -1,0 +1,180 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\title{Numerical Reasoning Test Solutions Test 3}
+\author{Jaklyn Crilly}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Question 1} \\
+The inflation over the initial year consists of a combination of the first four quarter inflations, which is given by their compound inflation.
+
+To do this step by step, we set the initial data to be fixed at the beginning of quarter 5 and hence this corresponds to the base inflation index given by $P_0 = 100\%$. After the first quarter the inflation is 4\%, so the inflation index after the first quarter, $P_1$, is given by the initial data plus the change in the initial data due to inflation:
+$$P_1 = 100 + 100 \times \frac{4}{100} = 104.$$
+The second quarter sees an inflation of another 4\%. This affects not only the original data $P_0$ but also the additional inflation that occurred from the first quarter. So setting the initial data to be the 104\% and applying the same formula as before:
+$$P_2 = 104 + 104 \times \frac{4}{100}=108.$$
+
+Repeating this process two more times, we get
+\begin{equation*} 
+\begin{split}
+P_4 &= 100 \times \frac{100+4}{100} \times \frac{100+4}{100} \times \frac{100+5.5}{100} \times \frac{100+6}{100} \\
+&= 120.95.
+\end{split}
+\end{equation*}
+Thus the inflation, I, is given by final percentage, $P_4$, minus the initial, $P_0$:
+$$ I= 120.95-100=20.95.$$
+
+The answer to the nearest whole number is 21\% inflation.\\
+
+\textbf{Question 2} \\
+The initial data starting at the beginning of quarter 5 is the items cost of \pounds 150. Applying the same logic as with question 1, we now need to determine the items final price at the end of quarter 8, which is given by its initial cost plus the compound inflation achieved from the beginning of quarter 5 to the end of quarter 8. So applying the same formula as before, we get
+$$150 \times \frac{100+1}{100} \times \frac{100+0}{100} \times \frac{100-1}{100} \times \frac{100-1}{100} = 148.48515.$$
+Given the initial data was in pounds, the solution is also in pounds, and thus the solution to the nearest pound is \pounds 148. \\
+
+\textbf{Question 3} \\
+First we must determine how much of the revenue produced was due to the contribution of fizzy drinks in each of the two years. Labelling the fizzy drink revenue of each year $R_{fd}^{year}$, we get:
+\begin{align*}
+R_{fd}^{2000} &= 312 \times \frac{19}{100}=59.28.\\
+R_{fd}^{2010} &= 516 \times \frac{25}{100}=129.
+\end{align*} 
+Thus the revenue made from fizzy drinks in 2000 is \$59.28 million, and in 2010 is \$129 million.
+
+To determine the percentage of revenue from 2010 over the revenue from 2000, we must divide the data from 2010 by that from 2000 to get the solution in fractional form, and then multiply by 100 to establish a percentage:
+$$\frac{129}{59.28} \times 100=218.$$
+To now determine the percentage increase as asked in the question, we must subtract the percentage of fizzy drink revenue from 2000 which is 100\% (as we are viewing the data as a percentage of 2010's revenue), from 218\%, leaving us with a percentage increase of 118\%.\\
+
+
+\textbf{Question 4}\\
+To determine the increase in revenue (which we will label $R^{inc}$), we have to first find the revenue for the product in the year 2010, $R^{2010}$, and the revenue from the product in the year 2000, $R^{2000}$, and then subtract $R^{2010}$ from $R^{2000}$.
+
+So for salads we get:
+$$R^{2010}_{salads}=516 \times \frac{13}{100}=67.08.$$
+$$R^{2000}_{salads}=312 \times \frac{9}{100}=28.08.$$
+$$R^{inc}_{salads} = R^{2010}_{salads} - R^{2000}_{salads} = 39.$$
+The increase in revenue for salads over the period from 2010 to 2000 is thus \$39 million.
+Repeating this for the remaining 4 products, we find:
+$$R^{inc}_{burgers}=78.$$
+$$R^{inc}_{fries}=-3.$$
+$$R^{inc}_{milkshakes}=20.$$
+$$R^{inc}_{fizzy drinks}=78.$$
+From this data, it is clear that the second largest increase was produced by fizzy drinks.\\
+
+\textbf{Question 5}\\
+Using our data determined in the previous question, we observe that the four products of salads, burgers, milkshakes and fizzy drinks all have an increase in revenue, whilst fries have a decrease in revenue. Given the question asks for the smallest increase (and not decrease), we must exclude fries. The solution then has to be milkshakes which has an increase of just \$20 million.\\
+
+\textbf{Question 6} \\
+As given in the question, we know that the profit ratio, $P_{rat}$, is given by the operating profit, $P_{op}$, as a percentage of the revenue, $R$. That is,
+$$P_{rat} = \frac{P_{op}}{R} \times 100.$$
+The difference in profit ratios between 2010 and 2000 in the direct sales sector is thus given by 
+$$P^{\text{Diff}}_{rat} = \Bigg( \frac{P^{2010}_{op}}{R} \times 100 \Bigg)- \Bigg( \frac{P^{2000}_{op}}{R} \times 100 \Bigg)= \Bigg( \frac{1.9}{5.4} \times 100 \Bigg)- \Bigg(\frac{0.9}{5} \times 100 \Bigg) = 17.2.$$
+Therefore the difference is 17.2\% \\
+
+\textbf{Question 7} \\
+It is impossible to deduce anything in regards to the percentage growth of Waldo's shares as we have been given no details in regards to Waldo's portion of shares or the market size. Thus we cannot say what percentage of Waldo's shares are affected by such a revenue decrease. \\
+
+\textbf{Question 8} \\
+To determine the percentage of profit resulting from licensing in 2010, which we denote $P_{lic}^{2010}$, we must sum up the operating profit made from the three areas given, and then determine the licensing operating profit as a percentage of this sum. That is:
+$$P_{lic}^{2010}=\frac{1.3}{1.3+1.9+1.1} \times 100 = 30.23256.$$
+The percentage to one decimal place is thus 30.2\%.\\
+
+\textbf{Question 9} \\
+In the month of March, the costs of the machinery sales, $C$, was \pounds 130 million and the revenue, $R$, was \pounds 150 million. Given the costs is a part of the revenue, the percentage of revenue which resulted from costs, which we will denote $P$, is given by
+$$P = \frac{C}{R} \times 100 = \frac{130}{150} \times 100 = 86.7$$
+
+Therefore in the month of March, 86.7\% of revenue was a result of costs.\\
+
+\textbf{Question 10} \\
+We cannot say how many sales are required in February based on the sales in April as we have been given no information in regards to the price of each sale and whether they have increased, decreased or stayed constant.
+
+If the price of each sale remained constant between the months, the sales required for February could be determined using the equation
+$$ Sales_{Feb}= \frac{Sales_{Apr}}{Revenue_{Apr}} \times Revenue_{Feb} = \frac{52000}{180} \times 120 = 78000.$$
+However we have not been given such information, and thus the answer is `cannot say'.\\
+
+\textbf{Question 11} \\
+We need to work out the percentage change in revenue over each period of \textbf{increased} sales (not decreased), which leaves only the periods Feb-Mar and Mar-Apr as viable options.
+
+Now to determine the percentage increase over these periods, we must divide the final revenue by the initial and multiply this by 100. Doing so, we get
+$$R_{F-M}=\frac{150}{120} \times 100 = 125.$$
+$$R_{M-A}=\frac{180}{150} \times 100 = 120.$$
+The percentage increase from Feb-Mar is 25\% whilst the percentage increase from Mar-Apr is only 20\%. The answer is Feb-Mar.\\
+\\
+$\star$ Even though the rate in which the graph over the periods Feb-Apr increases over a constant rate, which means that the money earned over these periods is equal, given sales in Feb were less than those in Mar, the percentage by which the sales changed over the given periods must be larger for Feb-Mar. This is a common trick in numerical reasoning tests.\\
+
+\textbf{Question 12} \\
+There are not enough details in the question to determine the answer. No information in regards to the cost structure has been given making it impossible to calculate the sales margin in 2006 from simply the net sales rate of increase.\\
+
+
+\textbf{Question 13} \\
+The total costs are given by the sum of the `costs of goods sold' and the `fixed costs', so for the year 2004 we get: 
+$$\textnormal{Total costs} = 418+94=512.$$
+As given in the question, we know the formula for calculating the efficiency, and thus
+$$\textnormal{Efficiency} = \frac{\textnormal{Operating Cash Flow}}{\textnormal{Total Costs}} \times 100 = \frac{81}{512} \times 100 = 15.820...$$
+Up to one decimal place, the answer is 15.8\%.\\
+
+\textbf{Question 14} \\
+Letting $P$ denote the quantity we want to calculate, we must apply the formula 
+$$P=\frac{\textnormal{Cost Of Goods Sold}}{\textnormal{Net Sales}} \times 100,$$
+to each year and determine which years percentage is the smallest.
+As an example, for the year 2000 the percentage is 75.4\%, as given by
+$$P_{2000}=\frac{318}{422} \times 100= 75.355...$$
+Applying this formula to the remaining years we find $P_{2001}=71.1\%$, $P_{2002}=94.8\%$, $P_{2003}=170.3\%$, $P_{2004}=70.5\%$ and $P_{2005}=72.1\%$
+We see that the smallest percentage is given in the year 2004.\\
+
+\textbf{Question 15}\\
+Paper waste, $W_P$ contributed to 19\% of the total waste in 2006, which equates to a total of 420m tonnes of paper waste. To determine the total waste, $W_{T}$, we can rearrange the standard formula
+$$W_P= \frac{19}{100} \times W_T,$$
+to get 
+$$W_T= \frac{100}{19} \times W_P = \frac{100}{19} \times 420 = 2210.526...$$
+Given the units of the paper waste was million tonnes, we find the total waste in 2006 to the nearest 100m tonnes is 2200m tonnes.\\
+
+\textbf{Question 16} \\
+From the previous question it is known that the total waste in 2006 was 2210.526 (make note not to use the rounded up quantity 2200, but the full 2210.526... when using this data for another question). Given total waste increases by 10\% each year and there are two years between 2004 and 2006 we know that 
+$$W_T^{2006}=\frac{110}{100} \times \frac{110}{100} \times W_T^{2004}.$$
+Rearranging this in terms of $W_T^{2004}$, we get
+$$W_T^{2004}=\frac{100}{110} \times \frac{100}{110} \times W_T^{2006} =\frac{100}{110} \times \frac{100}{110} \times 2210.526 = 1826.881...$$
+So the total waste in 2004 was 1826.88m tonnes.
+Now the percent of waste due to metal in 2004 is 26\%, thus in millions of tonnes this equates to 
+$$W_M^{2004}=\frac{26}{100} \times 1826.881 =474.989...$$
+So the metal waste in 2004 to the nearest million tonnes is 475.\\
+
+\textbf{Question 17} \\
+From the previous question we know that the total waste in 2004 was 1826.88m tonnes, and the total waste in 2006 was 2210.53m tonnes. The total waste in 2008 increases 10\% each year from 2006, and thus
+$$W_T^{2008}=\frac{110}{100} \times \frac{110}{100} \times W_T^{2006} = \frac{110}{100} \times \frac{110}{100} \times 2210.526 = 2674.7368...$$
+Thus the total waste in 2008 is 2674.74m tonnes.
+
+Now to determine the total plastic waste, $W_{pl}$, we multiple the total waste by the fraction of plastic waste. That is
+$$W_{pl}^{2004}=\frac{23}{100} \times 1826.88 = 420.182...$$
+$$W_{pl}^{2008}=\frac{17}{100} \times 2674.74 = 454.705...$$
+So the plastic waste in 2004 is 420.18m tonnes and in 2008 is 454.71m tonnes.
+The difference between these two plastic wastes is
+$W_{pl}^{2008}-W_{pl}^{2004}=454.71-420.18=34.52,$
+and the solution is thus 35m tonnes.\\
+
+\textbf{Question 18} \\
+We want to determine EUR/USD. We have values for the movements of JPY/EUR and JPY/USD, thus we can essentially divide out the factor of JPY to determine the desired movement. 
+
+To do this we need to determine JPY/EUR (not simple it's movement). This is given by the movement plus 100 as we are working in percentagess. Ideally we would like to work in fractions and thus we will then divide this by 100.
+$$JPY/EUR = \frac{100+1.638}{100}=1.01638...$$
+$$JPY/USD = \frac{100+1.068}{100}=1.01068...$$
+So we get
+$$EUR/USD = \frac{JPY/USD}{JPY/EUR} = \frac{1.01068}{1.01638} = 0.99439...$$
+And so reversing the previous process, the movement of EUR/USD is $(0.99439 \times 100)-100=-0.56081...,$ which is roughly -0.56\%.\\
+
+\textbf{Question 19} \\
+There is not enough information to determine such a thing, and thus we cannot say. 
+Although we are able to determine the currency movement of each currency with respect to the USD, we are not given any data in regards to the value of each currency and without this we cannot determine which has been devalued the most.\\
+
+\textbf{Question 20} \\
+
+\textbf{Question 21} \\
+We need to apply to this question the same process we applied to question 1, however now in reverse. Starting with the standard $P_9 = 100\%$ as our initial inflation index which we will base at the start of quarter 9, we want to determine what the inflation index at the beginning of quarter 5, denoted $P_5$, is with respect to it. Applying the same formula and logic as in question 1, we get
+$$P_9=P_{5} \times \frac{100+1}{100} \times \frac{100+0}{100} \times \frac{100-1}{100} \times \frac{100-1}{100}.$$
+Rearranging this so that $P_5$ can be determined, we get
+$$P_5 = 100 \times \frac{100}{100+1} \times \frac{100}{100+0} \times \frac{100}{100-1} \times \frac{100}{100-1}=101.02.$$
+The inflation index at the start of quarter 5 is 101.02%
+
+\end{document}

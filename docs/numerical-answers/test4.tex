@@ -1,0 +1,300 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\title{Numerical Reasoning Test Solutions Test 4}
+\author{Jaklyn Crilly}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+$\textbf{Question 1} \\$
+
+From the graph, we know that energy research is split into four sectors (oil, gas, nuclear and coal). The amount that was spent on research for the relevant year, which we will denote $S_{year}$, is then given by the sum of the amount that was spent on research for each individual source for that year. For the years 1992 and 1996, we find:
+
+\begin{align*}
+S_{1992}&=500+600+650+750\\
+&=2500,\\
+S_{1996}&=600+600+750+725\\
+&=2675.
+\end{align*}
+
+To now determine the percentage of growth of research between 1992 and 1996, we must determine the growth index which is given by the fraction of $S_{1996}$ over $S_{1992}$ multiplied by 100 (to get the answer in percentage form), and then subtract the base of $100\%$ which is the initial index. This leaves us with the change in index, and so the percentage growth, $G$, is
+\begin{align*}
+G &= \bigg( \frac{S_{1996}}{S_{1992}} \times 100 \bigg) - 100\\
+&= \bigg( \frac{2675}{2500} \times 100 \bigg) - 100\\
+&= 7.
+\end{align*}
+Therefore the answer is $7\%$. $\\$
+
+
+$\textbf{Question 2} \\$
+
+To determine the average research spend across all energy sources in the year 2000, we must sum together the amount spent on research for each source, and then divide this by the number of sources there are. Given there are four sources, we get:
+\begin{align*}
+\text{Average} &= \frac{600+600+700+800}{4} \\
+&= 675.
+\end{align*}
+So the average research spend in the year 2000 is £675 million. $\\$
+
+$\textbf{Question 3} \\$
+
+For the year 2008, we want to determine the ratio of spend on nuclear (which is 800, as given in units of million pounds) to the spend on oil, gas & coal (which is given by the sum of the three individual spends, $800+450+600=1850$).
+So we get:
+\begin{align*}
+\text{Ratio} &= \text{Nuclear} : \text{Oil+Gas+Coal} \\
+&= 800 : 1850\\
+&= 1 : 2.3125,
+\end{align*}
+where we have divided both sides of the ratio by 800 to get the final line. The ratio of nuclear to oil, gas & coal is thus $1 : 2.3125$. $\\$
+
+One way to compare this ratio to the ratios given in the solutions, is to divide all the ratios by the value of their nuclear spend so that every solution has a ratio given in the form $1 : x$.
+Doing this we find:
+\begin{align*}
+    800 : 2650 &= 1 : 3.3125\\
+    9 : 16 &= 1 : 1.7778\\
+    16 : 37 &= 1 : 2.3125\\
+    16 : 53 &= 1 :3.3125.
+\end{align*}
+
+We see that the ratio $16 : 37$ simplifies to the same ratio we calculated above for the year 2008, and is thus the desired solution. $\\$
+
+$\textbf{Question 4} \\$
+
+We just need to apply the same formula as we used in question one, however now to the individual fuel sources as opposed to the total sum. Letting $C_{source}$ denote the percentage change for the specified source between 2004 and 2008, and $S_{source}^{year}$ denote the spend of research for the given source and year, we get the general formula
+$$C_{source} = \bigg( \frac{S_{source}^{2008}}{S_{source}^{2004}} \times 100 \bigg) - 100.$$
+Applying this to each of the four sources, we find:
+\begin{align*}
+C_{oil}&= \bigg( \frac{800}{700} \times 100 \bigg) - 100 \\
+&= 14.2857,\\
+C_{gas}&= \bigg( \frac{450}{500} \times 100 \bigg) - 100 \\
+&= -10,\\
+C_{nuclear}&= \bigg( \frac{800}{900} \times 100 \bigg) - 100 \\
+&= -11.1111, \\
+C_{coal}&= \bigg( \frac{600}{400} \times 100 \bigg) - 100 \\
+&= 50.
+\end{align*}
+
+It is clear that coal had the largest percentage change between the years 2004 and 2008, given by its $\%50$ increase. $\\$
+
+$\textbf{Question 5} \\$
+We know the amount spent on research in the year 2008 as well as the percentage change of each source from the year 2008 to 2012, and so we can calculate the research spend in 2012 for each source by the formula
+$$S_{source}^{2012} = S_{source}^{2008} + \bigg( S_{source}^{2008} \times \frac{\text{Percentage Change}}{100} \bigg).$$
+
+Applying this to the individual sources we find:
+\begin{align*}
+S^{2012}_{oil}&=800+\big(800 \times \frac{-1}{3} \big) = 533.33...,\\
+S^{2012}_{gas}&=450+\big(450 \times \frac{-1}{3} \big) = 300,\\
+S^{2012}_{nuclear}&=800+\big(800 \times \frac{30}{100} \big) = 1040, \\
+S^{2012}_{coal}&=600+\big(600 \times \frac{-1}{3} \big) = 400.
+\end{align*}
+
+The total research spend in 2012, denoted $S^{2012}$, is then the sum of the money spent on research for each source in 2012, given by
+\begin{align*}
+S^{2012} &= 533.33+300+1040+400 \\
+&= 2273.33.
+\end{align*}
+So the total spend on research in 2012 is £2273 million. $\\$
+
+$\textbf{Question 6} \\$
+
+The total costs are given by the sum of the cost of sale and the fixed costs, so for the year 2004 we get: 
+\begin{align*}
+\text{Total Costs} &= 164128+133000\\
+&=297128.
+\end{align*}
+
+As given in the question, we know the formula for calculating the efficiency, and thus
+\begin{align*}
+\text{Efficiency} 
+&= \frac{\text{Operating Cash Flow}}{\text{Total Costs}} \times 100\\
+&= \frac{288996}{297128} \times 100 \\
+&= 97.2631...
+\end{align*}
+
+Up to two decimal places, the answer is $97.26\%$. $\\$
+
+$\textbf{Question 7} \\$
+
+We need to determine the fixed costs in 2004 as a percentage of the fixed costs in 2000, and then deduct 100 from this value to determine the overall percentage change from 2000 to 2004. Letting $G$ denote the percentage change of fixed costs from 2000 to 2004, and $F_{year}$ the fixed costs for the specified year, we get:
+\begin{align}
+G &= \bigg(\frac{F_{2004}}{F_{2000}} \times 100 \bigg) -100\\
+&= \bigg(\frac{133000}{32000}\times 100 \bigg) - 100\\
+&= 315.625.
+\end{align}
+
+So the percentage increase of fixed costs from 2000 to 2004 is $315.6\%$. This is not an option in the solutions provided, and thus the answer is none of these. $\\$
+
+
+$\textbf{Question 8} \\$
+
+As given in the question, the gross margin is given by the net sales minus the cost of sale, as a percentage of the net sales. For the year 2002 this is:
+\begin{align}
+\text{Gross Margin} &= \frac{\text{Net Sales - Cost of Sale}}{\text{Net Sales}} \times 100\\
+&= \frac{384932-101232}{384932}\times 100\\
+&= 73.701...
+\end{align}
+Up to two decimal places, the gross margin for 2002 is $73.70\%$. $\\$
+
+$\textbf{Question 9} \\$
+
+The average salary per person is given by the sum of all the total wages over all the four sectors, divided by the sum of the number of staff in all four sectors. So the average wage in 2006, $W_{av}^{2006}$, is given by
+\begin{align*}
+W_{av}^{2006} &= \frac{406274+1991024+955440+705000}{22+112+36+15}\\
+&= 21933.7189...
+\end{align*}
+Thus to the nearest pound, the average wage of a staff member at Tron Semiconductor is £21934. $\\$
+
+$\textbf{Question 10} \\$
+
+First we must work out the total wages of management in 2008, denoted $W_{man}^{2008}$, as a percentage of the total wages of management in 2006, $W_{man}^{2006}$. To then find the increase in wages between this period, which we will denote $W$, we must subtract 100 from this value. That is:
+\begin{align*}
+W &= \bigg( \frac{W_{man}^{2008}}{W_{man}^{2006}} \times 100 \bigg) - 100\\
+&= \bigg( \frac{884000}{705000}\times 100 \bigg) -100\\
+&= 25.390...
+\end{align*}
+So to one decimal place, the percentage change of managements total wages between 2006 and 2008 is $25.4\%$. $\\$
+
+$\textbf{Question 11} \\$
+
+In 2006 there were 15 staff members in management and a total of $22+112+36=170$ in all the other sectors. The ratio of management staff to all other staff is then given by:
+\begin{align*}
+\text{Ratio} &= \text{Management staff} : \text{All other staff}\\
+& = 15 : 170\\
+& = \, \, 3 \, : 34,
+\end{align*}
+where we have simplified the ratio by dividing both sides by 5 in order to achieve the last line.
+So the answer is $3 : 34$. $\\$
+
+$\textbf{Question 12} \\$
+The total percentage of revenue occurring in the UK and US together is given by the sum of their individual percentages of revenue, and is therefore $34.40\%+27.80\%=62.20\%$. This means that $100\%-62.20\%=37.80\%$ of the revenue is a result of the remaining territories.
+
+The percentage of revenue that the UK and US exceeds the other territories by is the difference of these two percentages and so is $62.20\% - 37.80\% =  24.40\%$. Given the total global revenue is $\$ 383$ million, the revenue in the UK and US exceeds all other revenues by
+$$383 \times \frac{24.40}{100} = 93.452.$$
+
+So the revenue excess is $\$93.45$ million. $\\$
+
+$\textbf{Question 13} \\$
+The percentage of revenue due to France is $12.40\%$ and the percentage of revenue due to Latin America is $8.80\%$. The ratio of France's revenue to Latin America's is thus
+\begin{align*}
+\text{Ratio} &= \text{France} : \text{Latin America}\\
+&= 12.40 : 8.80\\
+&= 31 : 22,
+\end{align*}
+where we have obtained the last line by multiplying both sides of the second line by 2.5.
+
+The answer is therefore given by the ratio $31 : 22$. $\\$
+
+$\textbf{Question 14} \\$
+The revenue for Germany, denoted $R_0^{G}$, is given by $5.9\%$ of the total global revenue:
+$$383 \times \frac{5.9}{100}=22.597$$
+The total revenue for Germany is thus $\$22.6$ million. Given that in the following year Germany's revenue remained the same, the revenue for the following year, $R_1^{G}$, is also $\$22.6$ million. $\\$
+
+The total global revenue in the following year, $R_1$, is equal to the revenue from the previous year plus an additional $20\%$ of the revenue produced by the UK and US. That is:
+\begin{align*}
+R_1 &= 383 + \frac{20}{100} \times \bigg(383 \times \frac{34.40+27.80}{100} \bigg) \\
+&= 430.6452.
+\end{align*}
+So the total revenue in the following year is $\$430.6$ million. $\\$
+
+The percentage of revenue that Germany has, $P^G$, in this year is then:
+\begin{align*}
+P^G &= \frac{R_1^{G}}{R_1} \times 100\\
+ &= \frac{22.597}{430.6452} \times 100\\
+ &=5.247...
+\end{align*}
+
+Therefore, Germany has $5.25\%$ of the revenue in the following year. $\\$
+
+$\textbf{Question 15} \\$
+We are given details on the GDP per capita (i.e. per person) and the total GDP for each year. To then determine the total population in 2000, $P^{2000}$, we just need to divide the GDP by the GDP per capita of this year:
+\begin{align*}
+P^{2000} &= \frac{GDP}{GDP/capita}\\
+&= \frac{1.45 \times 10^{12}}{24584}\\
+&= 58981451.35...
+\end{align*}
+So the population in 2000 is 58.98 million. (Note that we need to make sure your GDP and GDP/capita share the same units of money before dividing them. In the given calculation both have money units of dollar). $\\$
+
+Given $4.4\%$ of this population is unemployed, the number of unemployed people in 2000, $P_{U}^{2000}$, is:
+\begin{align*}
+P_{U}^{2000} &= P^{2000} \times \frac{4.4}{100} \\
+&= 2595183.859...
+\end{align*}
+So the population of unemployed people to the nearest thousand is 2595000. $\\$
+
+$\textbf{Question 16} \\$
+Letting $P_U^{year}$ denote the number of unemployed people in the specified year, we can apply the same formula as in question 15 to get:
+\begin{align*}
+P_U^{2002} &= \frac{1.58 \times 10^{12}}{26632} \times \frac{3.62}{100}\\
+&= 2147641.93...\\
+P_U^{2003} &= \frac{1.83 \times 10^{12}}{30721} \times \frac{3.44}{100}\\
+&= 2049152.04...
+\end{align*}
+
+Now we want to determine by what percentage the number of unemployed people changed from 2002 to 2003 (we will denote this value $C$). To do this, we must first determine the number of unemployed people in 2003 as a percentage of the number of unemployed people in 2002, and then take away 100 to leave us with the change. That is:
+\begin{align*}
+C &= \bigg( \frac{P_U^{2003}}{P_U^{2002}}\times 100 \bigg) - 100\\
+&= \bigg( \frac{2049152.04}{2147641.93}\times 100 \bigg) - 100\\
+&= -4.58595...
+\end{align*}
+The answer is $-4.59\%$.
+
+$\textbf{Question 17} \\$
+There are 1679 members of staff in Sales, Distribution, Finance and Other in 2005, which accommodates for $85\%$ of the staff at Workaholics. Letting N denote the total number of staff working at Workaholics, we know that
+$$1679 = N \times \frac{87}{100}.$$
+Rearranging this to get the equation in terms of N, we find:
+\begin{align*} 
+N &= 1679 \times \frac{100}{87}\\
+&= 1929.88505...
+\end{align*}
+So there are a total of 1930 staff members in the year 2005. Given manufacturing had $15\%$ of the staff, this equates to:
+$$1929.8550 \times \frac{13}{100}=250.885...,$$
+and thus there are 251 members of staff in manufacturing. $\\$
+
+$\textbf{Question 18} \\$
+The only information that has been given is the distribution of staff in particular roles which is of no use to this question. We have not been given any information in regards to how many staff there are at Workaholics in each year and so it is impossible to answer. $\\$
+
+$\textbf{Question 19} \\$
+Given we are interested in the data in the year 2002, we will rebase the town house price index to the year 2002 by multiplying all town house data by $\frac{100}{112}$ (i.e. town housing index for year 2002 will now be 100, for the year 2003 it will be $\frac{125}{112} \times 100$, and so on). 
+
+The value for the town house in the beginning of 2005, which we will denote $T_{2005}$, will then be the price of the town house in 2002 multiplied by the new rebased index in the year 2005 in fractional form (i.e. divided by 100). Thus:
+\begin{align*}
+T_{2005} &= 120000 \times \frac{184}{112}\\
+&= 197142.8571...
+\end{align*}
+Repeating the process for the price of the suburban house in 2005, denoted $S_{2005}$, we get;
+\begin{align*}
+S_{2005} &= 120000 \times \frac{149}{99}\\
+&= 180606.0606...
+\end{align*}
+The difference in price at the beginning of 2005 between the town house and the suburban house, denoted $D$, is:
+\begin{align*}
+D &= T_{2005} - S_{2005}\\
+&= 197142.8571 - 180606.0606\\
+&= 16536.7965...
+\end{align*}
+So the difference in price to the nearest dollar is $\$16537$. $\\$
+
+$\textbf{Question 20} \\$
+Repeating the same process as we used in question 19, we will rebase the indices for the Retail Price index to the year 2003. Given the price of furnishing a house in the suburbs in 2003 was $\$25000$, the price of the furnishing in 2006, $F_{2006}$, is:
+\begin{align*}
+F_{2006} &= 25000 \times \frac{118.4}{104.1}\\
+&= 28434.1978...
+\end{align*}
+The answer is therefore $\$28434.20$. $\\$
+
+$\textbf{Question 21} \\$
+The inflation percentage for the years 2003 and 2004 is $2\%$ and thus the inflation index is $102\%$. The inflation rate for the year 2005 is $5.4\%$ and so has an inflation index of $105.4\%$.
+
+Taking our initial data to be the base inflation index of $100\%$, the cumulative inflation of this data is given by acting on the initial data with the first inflation index, and then treating the result as the initial data for the following inflation. That is, the cumulative inflation index is
+\begin{align*}
+    I &= \bigg( \bigg( \bigg(100 \times \frac{102}{100} \bigg) \times \frac{102}{100} \bigg) \times \frac{105.4}{100} \bigg)\\
+    &=109.658...
+\end{align*}
+
+The cumulative inflation is thus $109.7\%-100\%=9.7\%$, and so the answer is $9.7\%$.
+
+\end{document}
+

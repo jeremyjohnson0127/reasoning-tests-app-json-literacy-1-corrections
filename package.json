@@ -1,0 +1,49 @@
+{
+  "name": "App",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "engines": {
+    "node": "<10.0"
+  },
+  "scripts": {
+    "start": "react-native-scripts start",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "jest": {
+    "preset": "jest-expo",
+    "transform": {
+      "^.+\\.js?$": "babel-jest",
+      ".+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$": "jest-transform-stub"
+    },
+    "transformIgnorePatterns": [
+      "!node_modules/react-runtime"
+    ]
+  },
+  "dependencies": {
+    "expo": "^30.0.0",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "native-base": "^2.4.5",
+    "prop-types": "^15.6.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-app-intro-slider": "^1.0.1",
+    "react-native-mathjax": "git://github.com/mrded/react-native-mathjax.git#patch-2",
+    "react-native-render-html": "^3.9.0",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-vector-icons": "^4.5.0"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.0",
+    "html-tag-validator": "^1.6.0",
+    "jest-expo": "^30.0.0",
+    "jest-transform-stub": "^1.0.0",
+    "react-native-scripts": "1.14.0",
+    "react-test-renderer": "16.3.1",
+    "redux-mock-store": "^1.5.3"
+  }
+}

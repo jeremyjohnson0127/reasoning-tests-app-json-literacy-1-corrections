@@ -1,0 +1,18 @@
+{
+  "title": "Attachment - Image",
+  "type": "object",
+  "required": [
+    "type",
+    "data"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "example": "image"
+    },
+
+    "data": {
+      "type": "string"
+    }
+  }
+}

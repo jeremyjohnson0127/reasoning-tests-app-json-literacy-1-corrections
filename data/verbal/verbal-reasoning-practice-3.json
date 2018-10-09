@@ -1,0 +1,1215 @@
+{
+    "name": "",
+    "pass_percentage": 75,
+    "time_limit": 900,
+    "attachments":
+    {
+        "1.html":
+        {
+            "type": "textList",
+            "data": [
+                "While the current economic climate is not favourable for many types of service-based business start-ups, there are opportunities which are particularly likely to succeed in a depressed economy.",
+                "Entities which can offer those who are struggling financially some hope of ameliorating their situation are likely to attract customers, even in the depths of a recession.",
+                "New businesses in the education and recruitment sectors are prime examples of the kind likely to overcome, and to help others overcome, the worst effects of an economic slump."
+            ]
+        },
+        "2.html":
+        {
+            "type": "textList",
+            "data": [
+                "There was [...] a rise in the number of people classed as economically inactive - those out of work and not seeking work.",
+                " They rose by 110,000 to a record total of 8.16 million, equivalent to 21.5% of the population.",
+                "The majority of that rise was due to an increase in the number of students, as young people decided to enter education instead of seek jobs."
+            ]
+        },
+        "3.html":
+        {
+            "type": "textList",
+            "data": [
+                "Changes in education policy over the last decade have brought mixed blessings for the student population.",
+                "While there has been an increase in the number of university places and higher numbers of young people have achieved degree status, many of these leave education with significant debt and poor job prospects.",
+                "An unexpected casualty of policy reform has been the threatened demise of a second degree for graduates hoping to change career later in life.",
+                "Not only are these prospective students ineligible for student loans or grants, they may also be charged the equivalent of the higher ‘Island student’ rates at some of the better established universities."
+            ]
+        },
+        "4.html":
+        {
+            "type": "textList",
+            "data": [
+                "The global economy will grow a faster than expected 4.2% this year, says the International Monetary Fund (IMF).",
+                "However, recovery in many advanced economies remains \"tepid\" and high government debt levels need to be addressed, the IMF said.",
+                "For this reason, governments must continue with economic stimulus measures this year, it added.",
+                "The IMF forecast the UK recovery would \"continue at a moderate pace\", with a weak pound helping exports."
+            ]
+        },
+        "5.html":
+        {
+            "type": "textList",
+            "data": [
+                "Although live online tuition offers significant financial and practical advantages over more conventional methods, progress to the mainstream is hampered both by unreliable technology and by the perception that web-hosted content is usually provided for free.",
+                "The difference between static content, which can include tuition delivered via text, images, audio and video, and live teaching via microphone and webcam along with concurrent collaborative working on documents and whiteboards is often poorly understood.",
+                "Once tutors and students experience and comprehend this distinction, the floodgates of demand for paid online tuition should open."
+            ]
+        },
+        "6.html":
+        {
+            "type": "textList",
+            "data": [
+                "The benefits of a western Classical education in a modern, technology-driven world are often overlooked.",
+                "It is all too easy to consider the wisdom of Ancient Greeks and Romans, as represented in their literature and philosophy, as outdated, while the obsolescence of ancient occidental languages seems self-evident.",
+                "Paradoxically, the perceived value of ancient oriental texts, such as Sun Tzu’s ‘Art of War’, in informing modern business strategy, appears to be on the increase.",
+                "However, despite the evident desire to pursue eastern wisdom, the degree of difficulty involved means that it is extremely rare, though not entirely unknown, for modern entrepreneurs to take their interest in these texts as far as studying them in their original ancient classical languages."
+            ]
+        },
+        "7.html":
+        {
+            "type": "textList",
+            "data": [
+                "The advent of Web 2.0 has changed the way many new businesses approach building up their customer base and income streams.",
+                "Before this interactive, social media revolution, marketing gurus focussed on creating a presence of on the web which would introduce their brand, and make available information about products or services and their costs to potential customers.",
+                "However, as the media have evolved, it has been necessary for marketing strategies to move with them so that the focus now is, not so much on providing access to information, as forging authentic relationships with other media aficionados.",
+                "As part of this relationship building, provision of free products and services is increasing to the point where a successful, income-generating business model must include methods other than direct sales for providing revenue."
+            ]
+        },
+        "8.html":
+        {
+            "type": "textList",
+            "data": [
+                "The virtues of slate as a building and roofing material have been recognized since the Roman period.",
+                "The Roman fort at Segontium, Caernarfon, was originally roofed with tiles, but the later levels contain numerous slates, used for both roofing and flooring.",
+                "The nearest deposits are about five miles (8 km) away in the Cilgwyn area, indicating that the slates were not used merely because they were available on-site.",
+                "...",
+                "The first record of slate quarrying in the neighbourhood of the later Penrhyn Quarry was in 1413, when a rent-roll of Gwilym ap Griffith records that several of his tenants were paid 10 pence each for working 5,000 slates."
+            ]
+        },
+        "9.html":
+        {
+            "type": "textList",
+            "data": [
+                "In the early 1990s, US corporations, and subsequently companies all over the world, started to adopt the concept of reengineering in an attempt to re-achieve the competitiveness that they had lost during the previous decade.",
+                "A key characteristic of Business Process Reengineering (BPR) is the focus on business processes.",
+                "Davenport (1993)[1] defines a (business) process as \"... a structured, measured set of activities designed to produce a specific output for a particular customer or market....\""
+            ]
+        },
+        "10.html":
+        {
+            "type": "textList",
+            "data": [
+                "Corporation tax is a tax levied in the United Kingdom on the profits made by companies and on the profits of permanent establishments of non-UK resident companies and associations that trade in the EU.",
+                "Prior to the tax's enactment on 1 April 1965, companies and individuals paid the same income tax, with an additional profits tax levied on companies.",
+                "The Finance Act 1965 replaced this structure for companies and associations with a single corporate tax, which borrowed its basic structure and rules from the income tax system."
+            ]
+        }
+    },
+    "questions": [
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "All entrepreneurs should wait till the end of the recession to start a business."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – some opportunities are more likely to succeed in a recession"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "New recruitment agencies are hampered by lack of venture capital."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – it may be true but the passage does not mention it so it cannot be deduced from the passage"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "1.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "If a business cannot offer hope of improvement in hard times, its services will not sell."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage says that those who can offer hope will probably be able to attract customers. It does not say that these are the only type of services that will sell."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The number of people classed as economically inactive is 110,000."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – 110,000 is the rise in this figure – there is a total of 8.16 million who are economically inactive"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Students are classed as economically inactive."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – the passage says that the majority of the increase in those classed as economically inactive is made up of an increase in the number of students"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "2.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The new policy for education is a lot worse than older ones."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage does not make this judgement but lists some advantages and disadvantages"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Many students cannot pay their student loans because there are so few jobs."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage says many students have significant debt and poor job prospects, but it does not rule out repayment of loans by other means."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The fees in some universities are different depending on whether the student is doing a first or second degree."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – some universities are charging ‘higher ... rates’ for prospective students who are graduates."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "3.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "It is sometimes still possible to obtain a student loan for a second degree."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – the passage says that graduates who are prospective students for a second degree are ineligible for student loans – though the passage may not be entirely accurate, basing answers on the passage leads to the conclusion that graduates can never obtain a student loan."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The IMF predicts the global economy will grow faster than 4.2% this year."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – the IMF say the economy will grow a (faster than expected) 4.2% so they predict 4,2%, not faster than that"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The rate of recovery in some advanced economies is quite slow."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – in this context, ‘tepid’ means quite slow"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Governments should continue economic stimulus measures to save small businesses from bankruptcy."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – this may be true but it is not mentioned in the passage"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "4.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "High government debt has led to a weaker pound."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – both high debt and a weak pound are mentioned but the passage does not say that one leads to the other"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Online tuition is, in some ways, better than more conventional teaching methods."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – it has ‘significant financial and practical advantages’"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Live online tuition consists of text, images, audio and video."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – these are all given as examples of ‘static content’ – live online tuition includes communication via webcam and concurrent document and whiteboard use."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "5.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Once web users understand how live online tuition is different from static content, many more people will want to use it."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – ‘the floodgates’ opening means there will be much more demand"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Modern technology has reduced respect for the benefits of ancient western thought."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage does not make this judgement"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Modern business entrepreneurs should study ancient Chinese so that they can access the wisdom of Sun Tzu in the original language."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage does not make this judgement"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Some modern business entrepreneurs do study ancient Chinese so that they can access the wisdom of Sun Tzu in the original language."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – it is not unknown to go this far"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "6.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Modern business people show a difference in attitude to oriental and occidental ancient wisdom."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – paradoxically, the value of eastern (oriental) wisdom is on the increase, while that of the west (occident) is considered outdated"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Before Web 2.0, it was not possible to find information about products and services on the web."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – before Web 2.0, marketing gurus focussed on creating a presence on the web which would ... make available information about products and services ..."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "After Web 2.0, it was possible to find information about products and services on the web."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage says that the focus has shifted but it does not say whether information about products and services is still available"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Business models will need to change to be successful."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – they will need to include methods other than direct sales – the products, services and costs of the previous model – to survive"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "7.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Too many free products and services will mean that businesses cannot generate income from direct sales alone."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – business models will need to include other methods to be successful"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Slate was transported to the Roman fort in Caernarfon for use in the original roofing."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – the fort was originally roofed with tiles and the passage states that slate was transported for use in later levels"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "8.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Slate quarrying in the area of the Penrhyn Quarry predates that in the Cilgwyn area."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "False – the passage refers to the ‘later’ Penrhyn Quarry making it clear that the Roman use of slate predates the quarrying in 1413"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": true
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "9.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "US corporations were more competitive in the 2000s than they were in the 1990s."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage compares the 1990s with the 1980s – ie the previous decade - but makes no comparison with the following decade"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "9.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Business process Reengineering focuses on activities."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – the passage says focus on business processes is a key characteristic of BPR and defines a business process as a [structured, measured] set of activities ...."
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "10.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "Before the Finance Act of 1965, permanent establishments of non-UK resident companies which traded in the EU paid both income tax and profits tax on their profits."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "True – corporation tax replaced these two taxes for this type of company"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": true
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": false
+        }]
+    },
+    {
+        "question": [
+        {
+            "type": "attachment",
+            "data": "10.html"
+        },
+        {
+            "type": "caption",
+            "data": "Statement"
+        },
+        {
+            "type": "textList",
+            "data": [
+                "The structure of income tax for individuals remained the same after 1965."
+            ]
+        }],
+        "explanation": [
+        {
+            "type": "textList",
+            "data": [
+                "Can’t say – the passage only describes changes to tax levied on companies"
+            ]
+        }],
+        "answers": [
+        {
+            "value": "True",
+            "correct": false
+        },
+        {
+            "value": "False",
+            "correct": false
+        },
+        {
+            "value": "Cannot Say",
+            "correct": true
+        }]
+    }]
+}

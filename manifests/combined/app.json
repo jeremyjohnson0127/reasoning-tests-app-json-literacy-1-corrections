@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "sdkVersion": "30.0.0",
+    "name": "Psychometric Tests",
+    "description": "Practise timed aptitude tests based on those used by employers.",
+    "slug": "wikijob-test-combined-dev",
+    "version": "2.6.0",
+    "icon": "./manifests/combined/icon.png",
+    "platforms": ["ios", "android"],
+    "privacy": "unlisted",
+    "assetBundlePatterns": [
+      "./assets/images/*",
+      "./data/numerical/*.json",
+      "./data/verbal/*.json"
+    ],
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+
+    "facebookScheme": "fb1244400052379962",
+    "facebookAppId": "1244400052379962",
+    "facebookDisplayName": "Psychometric Tests",
+
+    "ios": {
+      "bundleIdentifier": "uk.co.wikijob.test.combined",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "uk.co.wikijob.numerical_reasoning_tests",
+      "versionCode": 10015,
+      "permissions": []
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    },
+    "updates": {
+      "enabled": false
+    },
+    "extra": {
+      "intro": [
+        {
+          "key": "one",
+          "title": "Welcome",
+          "text": "This will help you perform better in psychometric reasoning tests- the type most often used in job application processes.",
+          "backgroundColor": "#59b2ab"
+        },
+        {
+          "key": "two",
+          "title": "Work quickly",
+          "text": "The tests are timed. It’s the time pressure that makes it difficult.\n\nYou should treat these practice tests like the real exam, and go back afterwards to review how you did.",
+          "backgroundColor": "#febe29"
+        },
+        {
+          "key": "three",
+          "title": "Improve your skills",
+          "text": "You’ll get your results at the end of the test and solutions to help you improve.",
+          "backgroundColor": "#22bcb5"
+        }
+      ]
+    }
+  }
+}

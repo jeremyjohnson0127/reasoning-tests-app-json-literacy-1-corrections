@@ -1,0 +1,18 @@
+{
+  "title": "Attachment - latex",
+  "type": "object",
+  "required": [
+    "type",
+    "data"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "example": "latex"
+    },
+
+    "data": {
+      "type": "string"
+    }
+  }
+}

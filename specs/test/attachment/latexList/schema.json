@@ -1,0 +1,18 @@
+{
+  "title": "Attachment - latexList",
+  "type": "object",
+  "required": [
+    "type",
+    "data"
+  ],
+  "properties": {
+    "type": {
+      "type": "string",
+      "example": "latexList"
+    },
+
+    "data": {
+      "type": "array"
+    }
+  }
+}
